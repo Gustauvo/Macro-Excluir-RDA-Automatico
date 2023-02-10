@@ -1,0 +1,1 @@
+# Macro-Excluir-RDA-Automatico
